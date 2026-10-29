@@ -1,0 +1,6 @@
+{
+  "name": "Digital Notice Board - Viva & Presentation Mentor",
+  "description": "Comprehensive B.Tech project presentation guide, system architecture, database design, 20 Hinglish viva Q&A, and interactive live demo for Digital Notice Board System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
